@@ -4,25 +4,22 @@ This program allows you to encrypt and decrypt secret messages using a simple en
 
 ## How to Use
 
-1. Clone this repository to your local machine.
-   
-2. Make sure you have Python installed on your machine.
 
-3. Open a terminal or command prompt and navigate to the directory where the `secret_message.py` file is located.
+ Open a terminal or command prompt and navigate to the directory where the `secret_message.py` file is located.
 
-4. To encrypt a message, run the following command:
+ To encrypt a message, run the following command:
    ```
    python secret_message.py encrypt
    ```
    You will be prompted to enter the message you want to encrypt.
 
-5. To decrypt a message, run the following command:
+To decrypt a message, run the following command:
    ```
    python secret_message.py decrypt
    ```
    You will be prompted to enter the encrypted message you want to decrypt.
 
-6. Follow the on-screen instructions to encrypt or decrypt your secret messages.
+ Follow the on-screen instructions to encrypt or decrypt your secret messages.
 
 ## Encryption Algorithm
 
